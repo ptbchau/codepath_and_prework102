@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="image_description">image of a golden retriever</string>
+    <string name="description">Hello world! I\'m a golden retriever and I would like to talk with you!</string>
+    <string name="say_hello">Say hello</string>
+    <string name="res_hello">Hello to you!</string>
+    <string name="fav_question">What is your favorite thing to do?</string>
+    <string-array name="fav_options">
+        <item>Select</item>
+        <item>Playing frisbee</item>
+        <item>Swimming</item>
+        <item>Going to a park</item>
+    </string-array>
+    <string-array name="fav_res">
+        <item></item>
+        <item>I love playing frisbee!</item>
+        <item>I love swimming!</item>
+        <item>I love going to a park!</item>
+    </string-array>
+</resources>
