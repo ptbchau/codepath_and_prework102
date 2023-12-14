@@ -2,7 +2,7 @@
 
 Submitted by: Chau Phan
 
-Hello World is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. ;The app shows a dropdown list and will display a toast when users select an item of the dropdown.
+Hello World is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. The app shows a dropdown list and will display a toast when users select an item of the dropdown.
 
 Time spent: 3 hours spent in total
 
